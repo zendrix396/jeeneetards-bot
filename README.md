@@ -1,5 +1,5 @@
 ## Overview
-Reddit Post: https://www.reddit.com/r/JEENEETards/comments/16ccs0r/so_ive_created_a_bot_out_of_boredom_padhlebsdk/
+[Reddit post](https://www.reddit.com/r/JEENEETards/comments/16ccs0r/so_ive_created_a_bot_out_of_boredom_padhlebsdk/)
 This is a Reddit bot made specifically for the `r/jeeneetards` subreddit. It uses PRAW (Python Reddit API Wrapper) and the GPT-3.5-turbo model from OpenAI to interact with the community. It performs multiple functions like tracking time remaining for JEE and NEET exams, providing motivational quotes, and encouraging users to study. It also allows users to block or unblock the bot.
 
 ## Features
